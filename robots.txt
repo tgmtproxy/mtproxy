@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tgmtproxy.github.io/mtproxy/sitemap.xml
